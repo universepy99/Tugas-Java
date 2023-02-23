@@ -1,6 +1,7 @@
 # Tugas-Java
 andika rizki harahap tugas java kelas ti 22 j
 
+
 public class GajiKaryawan {
     public static void main(String[] args) {
         String nama = "Andika Rizki Harahap";
